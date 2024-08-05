@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
-<h4 align="center">I am an Android Developer with responsibilities encompassing requirement specification, software design, coding, and maintenance. I enjoy working in a product-centric environment alongside creative, humble, and highly self-motivated colleagues. I am willing to learn and adopt new technologies. My long-term aspiration is to become an expert in this field.</h4>
+<h4 align="center">I am an Android Developer with responsibilities encompassing requirement specification, software design, coding, and maintenance. I enjoy working in a product-centric environment alongside creative, humble, and highly self-motivated colleagues. My long-term aspiration is to become an expert in this field.</h4>
 
 - 🌱 I’m currently learning **Android, Jetpack Compose, Kotlin Multiplatform**
 
